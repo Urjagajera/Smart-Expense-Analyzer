@@ -1,0 +1,12 @@
+------ EXPENSE SUMMARY ------
+
+Total Expense: ₹4470
+
+Category-wise Spending:
+Food: ₹1100
+Travel: ₹370
+Shopping: ₹1900
+Entertainment: ₹1100
+
+Highest Spending Category: Shopping (₹1900)
+Average Expense: ₹372.5

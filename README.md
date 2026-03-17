@@ -1,19 +1,28 @@
-# Smart-Expense-Analyzer
-python project which will analyze expense data from csv file and generate visuals(pie chart)
+# Smart Expense Analyzer
 
+A Python project that analyzes expenses from a CSV file and generates insights.
 
 ## Features
-- Reads expense data from CSV
+- Reads data from CSV
 - Calculates total expenses
-- Category-wise spending analysis
-- Highest spending category detection
-- Pie chart visualization
+- Category-wise analysis
+- Finds highest spending category
+- Generates pie chart visualization
+- Saves summary to file
 
-## Technologies Used
+## Technologies
 - Python
 - CSV module
 - Matplotlib
 
+## How to Run
+1. Run the script:
+   python expense_analyzer.py
+
+2. Enter the CSV file name:
+   expenses.csv
+
 ## Output
-Show Heighest Spending category with amount.
-Generates a pie chart showing expense distribution.
+- Console summary
+- expense_chart.png
+- summary.txt
